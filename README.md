@@ -1,2 +1,2 @@
 # Text-Style-Gen-Tool
-![image](https://user-images.githubusercontent.com/95701554/147478487-e8f85d06-b6f7-4e9a-a7a2-34059184e1db.png)
+![image](https://user-images.githubusercontent.com/95701554/147563450-1cb7a546-536c-4882-adf8-10520a1d0054.png)
