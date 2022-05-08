@@ -14,8 +14,9 @@ h1{
 }
 
 a{
+ color : #89CFF0 ;
  text-decoration : none ;
- text-shadow : none  ;
+ text-shadow : #89CFF0 0px 0px 3px ;
 }
 
 p{
