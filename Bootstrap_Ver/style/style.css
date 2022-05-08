@@ -9,8 +9,13 @@ body {
  height : 100% ;
 }
 
+h1{
+ text-shadow : #fff 0px 0px 3px  ;
+}
+
 p{
  font-size : 10px ;
+ text-shadow : #fff 0px 0px 3px  ;
 }
 
 .bigbox{
