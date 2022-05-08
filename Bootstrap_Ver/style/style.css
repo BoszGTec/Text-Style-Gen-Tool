@@ -13,7 +13,7 @@ h1{
  text-shadow : #fff 0px 0px 3px  ;
 }
 
-a{
+a , a:hover{
  color : #89CFF0 ;
  text-decoration : none ;
  text-shadow : #89CFF0 0px 0px 3px ;
