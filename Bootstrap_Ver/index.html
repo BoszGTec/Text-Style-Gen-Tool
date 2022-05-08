@@ -12,8 +12,8 @@
   <p>Bootstrap Ver.</p>
 
   <div class="d-flex" >
-   <input placeholder="พิมพ์ที่นี่" class="form-control input-zone" />
-   <input type="button" class="btn btn-danger input-zone-bt" value="×" />
+   <input oninput="tran()" placeholder="พิมพ์ที่นี่" class="form-control input-zone" id="inpt" />
+   <input onclick="document.getElementBy('inpt').value=''" type="button" class="btn btn-danger input-zone-bt" value="×" />
   </div> 
 
   <div class="bigbox">
