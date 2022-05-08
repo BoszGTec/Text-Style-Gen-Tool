@@ -47,6 +47,8 @@ p{
 }
 
 .input-zone-bt-2{
+ padding : 5px ;
+ font-size : 9px ;
  border-radius : 0px 0px 5px 0px ;
  border-bottom : solid #fff 1px ;
  border-right : solid #fff 1px ;
