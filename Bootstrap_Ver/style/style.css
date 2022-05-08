@@ -3,10 +3,11 @@
 body {
  background-color : #082032 ;
  font-family: 'IBM Plex Sans Thai', sans-serif;
- padding-left : 20px ;
- padding-right : 20px ;
  color : #f0f0f0 ;
  height : 100% ;
+ padding-top : 15px ;
+ padding-left : 20px ;
+ padding-right : 20px ;
 }
 
 h1{
