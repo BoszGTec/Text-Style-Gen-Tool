@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400&display=swap');
+
+body {
+ background-color : #082032 ;
+ font-family: 'IBM Plex Sans Thai', sans-serif;
+ padding-left : 20px ;
+ padding-right : 20px ;
+ color : #f0f0f0 ;
+ height : 100% ;
+}
+
+p{
+ font-size : 10px ;
+}
+
+.bigbox{
+ margin-top : 20px ;
+}
+
+.box{
+ margin-top : 15px ;
+}
+
+.input-zone , .input-zone:focus {
+ background-color : #334756 ;
+ border-radius : 5px 0px 0px 5px ;
+}
+
+.input-zone-2{
+ background-color : #334756 ;
+ border-radius : 0px 0px 0px 5px ;
+}
+
+.input-zone-bt {
+ border-radius : 0px 5px 5px 0px ;
+ border-bottom : solid #fff 1px ;
+ border-right : solid #fff 1px ;
+ border-top : solid #fff 1px ;
+}
+
+.input-zone-bt-2{
+ border-radius : 0px 0px 5px 0px ;
+ border-bottom : solid #fff 1px ;
+ border-right : solid #fff 1px ;
+ border-top : solid #fff 1px ;
+}
+
+.form-control:focus , .btn:focus {
+ border-color : #fff ;
+ box-shadow : rgba(255,255,255,0.4) 0px 0px 0px 4px;
+ z-index : 1;
+}
+
+.label{
+ height : 17px ;
+ background-color : #2C394B ;
+ font-size : 12px ;
+ padding-left : 5px ;
+ border : solid #fff 1px ;
+ border-bottom : #000 ;
+ border-radius : 5px 5px 0px 0px ;
+}
