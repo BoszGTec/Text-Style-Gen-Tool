@@ -22,11 +22,13 @@ p{
 }
 
 .input-zone , .input-zone:focus {
+ color : #f0f0f0 ;
  background-color : #334756 ;
  border-radius : 5px 0px 0px 5px ;
 }
 
-.input-zone-2{
+.input-zone-2 , . input-zone-2:focus {
+ color : #f0f0f0 ;
  background-color : #334756 ;
  border-radius : 0px 0px 0px 5px ;
 }
