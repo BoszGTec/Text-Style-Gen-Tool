@@ -14,10 +14,16 @@ h1{
  text-shadow : #fff 0px 0px 3px  ;
 }
 
-a , a:hover{
+a{
  color : #89CFF0 ;
  text-decoration : none ;
  text-shadow : #89CFF0 0px 0px 3px ;
+}
+
+a:hover{
+ color : #fff ;
+ text-decoration : none ;
+ text-shadow : #fff 0px 0px 3px ;
 }
 
 p{
