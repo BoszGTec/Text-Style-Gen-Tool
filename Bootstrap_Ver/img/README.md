@@ -1,1 +1,1 @@
-screenshot from : https://screenshot.guru/
+ : https://screenshot.guru/
