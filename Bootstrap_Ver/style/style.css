@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400&display=swap');
 
+*::-webkit-scrollbar , *::-webkit-scrollbar-corner{
+    background-color: var(--bs);
+   width : 5px ;
+
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: var(--bs-gray-400);
+}
+
 body {
  background-color : #082032 ;
  font-family: 'IBM Plex Sans Thai', sans-serif;
